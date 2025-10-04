@@ -1,5 +1,5 @@
 ##
-<h3 align="left"><b> 🍓Se Hee🍓 </b></h3>  
+<h2 align="left"><b> 🍓Se Hee🍓 </b></h2>  
 <div align="left"> </div>  
 
 <div><p>₍ᐢ. .ᐢ₎ ₊˚⊹♡ contact to...</p></div>
