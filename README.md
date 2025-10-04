@@ -3,7 +3,7 @@
 <div align="left"> </div>  
 
 <h5><b>contact to..</b></h5> 
-<img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> hansehee0624@gmail.com
 
 📚 Languages / Library / Tools 📚
   
