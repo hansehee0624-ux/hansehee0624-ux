@@ -2,7 +2,7 @@
 <h3 align="left"><b> 🍓Se Hee🍓 </b></h3>  
 <div align="left"> </div>  
 
-contact to.. 
+<h4><b>contact to..</b></h4> 
 <img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 ##
 📚 Languages / Library / Tools 📚
