@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-<h3 align="center"><b>Code Lang</b></h3>
+<h3 align="center"><b> 🍓Se Hee🍓 </b></h3>
 <div align="center">
 
 </div>
