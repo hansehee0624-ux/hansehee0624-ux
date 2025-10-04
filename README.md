@@ -2,8 +2,13 @@
 <h3 align="left"><b> 🍓Se Hee🍓 </b></h3>  
 <div align="left"> </div>  
 
-<h5><b>contact to..</b></h5> 
-<img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> hansehee0624@gmail.com
+<div> 
+  <p>𐦂𖨆𐀪𖠋🥞E-mail🥞𐦂𖨆𐀪𖠋</p>
+  <a href="mailto::hansehee0624@gmail.com">
+    <img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+ 
 
 📚 Languages / Library / Tools 📚
   
