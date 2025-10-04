@@ -1,8 +1,13 @@
 ##
-<h3 align="left"><b> 🍓Se Hee🍓 </b></h3> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanshee0624@gmail.com)](https://github.com/hansehee0624/github-readme-stats)
-<div align="left">
+<h3 align="left"><b> 🍓Se Hee🍓 </b></h3>
+<div align="left"> </div>
 
-</div>
+📚 Languages / Library / Tools 📚
+  
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
+![js](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![js](https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white)
+![js](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/> 
 <!--
