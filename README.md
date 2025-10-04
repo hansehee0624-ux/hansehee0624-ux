@@ -1,7 +1,7 @@
 <h2 align="center"><b> 🍓Se Hee🍓 </b></h2>  
 <div align="center"> </div>  
 
-<div><p>🐻☕🧸📋🧋🍪 contact to...🐻☕🧸📋🧋🍪</p></div>
+<div><p>🍑✧˖°ʚ🍓ɞ♡ contact to...ִ ࣪🫧✧˖°ʚ🍓ɞ♡🍑</p></div>
 <div>
   <a href="mailto::hansehee0624@gmail.com">
     <img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
