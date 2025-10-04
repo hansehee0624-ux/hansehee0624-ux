@@ -1,6 +1,6 @@
 ##
-<h3 align="center"><b> 🍓Se Hee🍓 </b></h3>
-<div align="center">
+<h3 align="left"><b> 🍓Se Hee🍓 </b></h3>
+<div align="left">
 
 </div>
 
