@@ -5,6 +5,13 @@
 
 Here are some ideas to get you started:
 
+<h3 align="center"><b>Code Lang</b></h3>
+<div align="center">
+
+</div>
+
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
