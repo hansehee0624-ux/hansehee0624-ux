@@ -8,6 +8,12 @@
   </a>
 </div>
 
+<div>
+  <a href="https://www.instagram.com/saaaay_o6/">
+    <img src ="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  </a>
+</div>
+
  ##
 
 📚 Languages / Library / Tools 📚
