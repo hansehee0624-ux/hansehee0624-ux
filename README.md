@@ -11,7 +11,7 @@
 ![js](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansehee0624)](https://github.com/깃허브아이디/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansehee0624)](https://github.com/hansehee0624/github-readme-stats)
 <!--
 **hansehee0624-ux/hansehee0624-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
