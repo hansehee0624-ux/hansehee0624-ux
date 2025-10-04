@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<!--
-**hansehee0624-ux/hansehee0624-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 <h3 align="center"><b>Code Lang</b></h3>
 <div align="center">
@@ -11,6 +7,11 @@ Here are some ideas to get you started:
 </div>
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
+
+<!--
+**hansehee0624-ux/hansehee0624-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
