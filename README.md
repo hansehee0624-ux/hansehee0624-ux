@@ -1,6 +1,4 @@
-<h3 align="center">🧸₊˚⊹♡🍰🍓♡⊹˚₊𖧷₊˚˖𓍢ִ🍓✧˚.🎀༘⋆ﾟ＊⋆｡‧˚ʚ🍓ɞ˚‧｡⋆₊˚⊹♡🍰🍓♡⊹˚₊𖧷₊˚˖𓍢ִ🍓✧˚.🎀༘⋆ﾟ＊🧸</h3>
-<div align="center">
-
+##
 <h3 align="center"><b> 🍓Se Hee🍓 </b></h3>
 <div align="center">
 
