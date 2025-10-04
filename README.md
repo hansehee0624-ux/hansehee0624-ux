@@ -2,8 +2,7 @@
 <h3 align="left"><b> 🍓Se Hee🍓 </b></h3>  
 <div align="left"> </div>  
 
-<div> 
-  <p>𐦂𖨆𐀪𖠋🥞E-mail🥞𐦂𖨆𐀪𖠋</p></div>
+<div><p>₍ᐢ. .ᐢ₎ ₊˚⊹♡ contact to...</p></div>
 <div>
   <a href="mailto::hansehee0624@gmail.com">
     <img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
