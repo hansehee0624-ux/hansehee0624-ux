@@ -5,7 +5,7 @@
 
 📚 Languages / Library / Tools 📚
   
-![js]([https://img.shields.io/badge/Java-F7DF1E?style=flat&logo=Java&logoColor=white](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white))
+![js](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![js](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![js](https://img.shields.io/badge/C-239120?&style=flat&logo=c3&logoColor=white)
 ![js](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
