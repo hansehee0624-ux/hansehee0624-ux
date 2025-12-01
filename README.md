@@ -22,8 +22,6 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/> 
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hansehee&show_icons=true&theme=transparent)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hansehee0624&layout=compact"><br><br>
 
 
 <!--
