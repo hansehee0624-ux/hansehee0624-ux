@@ -32,6 +32,8 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=hansehee0624-ux&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=diogee)](https://solved.ac/diogee/)
+
 
 <!--
 **hansehee0624-ux/hansehee0624-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
