@@ -11,7 +11,7 @@
 <div><p>🍑✧˖°ʚ🍓ɞ♡ contact to...ִ ࣪🫧✧˖°ʚ🍓ྀིྀིɞ♡🍑</p></div>
 
 <div>
-  <a href="mailto:hansehee0624@gmail.com" target="_blank"><img src="https://img.shields.io/badge/agilecatch@gmail.com-F06B66?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:hansehee0624@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hansehee0624@gmail.com-F06B66?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/saaaay_o6/">
     <img src ="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
   </a>
