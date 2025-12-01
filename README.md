@@ -32,7 +32,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=hansehee0624-ux&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=diogee)](https://github.com/hansehee0624-ux)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hansehee)](https://github.com/hansehee0624-ux)
 
 
 <!--
